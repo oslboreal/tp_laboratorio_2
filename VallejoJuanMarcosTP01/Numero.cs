@@ -36,7 +36,7 @@ namespace VallejoJuanMarcosTP01
         private double validarNumero(string numeroString)
         {
             double check = 0;
-            double.TryParse(numeroString, out check);
+            double.TryParse(numeroString, out check); // Usamos el TryParse, En caso que no se pueda retorna 0.
             return check;
         }
 
