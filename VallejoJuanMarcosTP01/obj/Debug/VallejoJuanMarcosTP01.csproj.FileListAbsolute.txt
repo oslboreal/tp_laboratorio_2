@@ -1,0 +1,9 @@
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\bin\Debug\VallejoJuanMarcosTP01.exe.config
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\bin\Debug\VallejoJuanMarcosTP01.exe
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\bin\Debug\VallejoJuanMarcosTP01.pdb
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\obj\Debug\VallejoJuanMarcosTP01.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\obj\Debug\VallejoJuanMarcosTP01.Form1.resources
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\obj\Debug\VallejoJuanMarcosTP01.Properties.Resources.resources
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\obj\Debug\VallejoJuanMarcosTP01.csproj.GenerateResource.Cache
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\obj\Debug\VallejoJuanMarcosTP01.exe
+C:\Users\Marcos Vallejo\Desktop\Sckts\Sck_1\VallejoJuanMarcosTP01\VallejoJuanMarcosTP01\obj\Debug\VallejoJuanMarcosTP01.pdb
