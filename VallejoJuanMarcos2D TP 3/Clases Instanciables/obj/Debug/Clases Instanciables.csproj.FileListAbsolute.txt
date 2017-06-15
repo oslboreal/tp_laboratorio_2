@@ -1,0 +1,11 @@
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

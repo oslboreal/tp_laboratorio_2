@@ -1,0 +1,14 @@
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\ConsolaDeSalida.exe.config
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\ConsolaDeSalida.exe
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\ConsolaDeSalida.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\obj\Debug\ConsolaDeSalida.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\obj\Debug\ConsolaDeSalida.exe
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\obj\Debug\ConsolaDeSalida.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Archivos.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Clases Abstractas.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Clases Instanciables.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Excepciones.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Archivos.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Clases Abstractas.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Clases Instanciables.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ConsolaDeSalida\bin\Debug\Excepciones.pdb
