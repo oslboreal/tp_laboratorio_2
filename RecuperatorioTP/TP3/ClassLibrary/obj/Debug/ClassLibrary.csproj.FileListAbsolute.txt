@@ -1,0 +1,5 @@
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

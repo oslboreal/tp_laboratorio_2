@@ -1,0 +1,450 @@
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Natacion
+Legislacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Roberto - Apellido: Juarez
+DNI: 32234456
+Nacionalidad: Argentino
+Legajo: 2
+CLASES DEL DÍA:
+Legislacion
+Legislacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Roberto - Apellido: Juarez
+DNI: 32234456
+Nacionalidad: Argentino
+Legajo: 2
+CLASES DEL DÍA:
+Legislacion
+Pilates
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Roberto - Apellido: Juarez
+DNI: 32234456
+Nacionalidad: Argentino
+Legajo: 2
+CLASES DEL DÍA:
+Legislacion
+Pilates
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Natacion
+Legislacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Legislacion
+Natacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Legislacion
+Natacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Natacion
+Legislacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Legislacion
+Natacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Roberto - Apellido: Juarez
+DNI: 32234456
+Nacionalidad: Argentino
+Legajo: 2
+CLASES DEL DÍA:
+Legislacion
+Natacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Roberto - Apellido: Juarez
+DNI: 32234456
+Nacionalidad: Argentino
+Legajo: 2
+CLASES DEL DÍA:
+Legislacion
+Legislacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Roberto - Apellido: Juarez
+DNI: 32234456
+Nacionalidad: Argentino
+Legajo: 2
+CLASES DEL DÍA:
+Legislacion
+Natacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Legislacion
+Natacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Legislacion
+Legislacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+
+╔════════════════JORNADA═══════════════╗
+PROFESOR:
+Nombre: Juan - Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DÍA:
+Pilates
+Legislacion
+
+
+ALUMNOS:
+Nombre: Miguel - Apellido: Hernandez
+DNI: 92264456
+Nacionalidad: Extranjero
+Legajo: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+Nombre: Rodrigo - Apellido: Smith
+DNI: 22236456
+Nacionalidad: Argentino
+Legajo: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+╚══════════════════════════════════════╝
+

@@ -1,0 +1,7 @@
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Archivos\bin\Debug\Archivos.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Archivos\obj\Debug\Archivos.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Marcos Vallejo\Desktop\TP 3 Laboratorio 2 - Marcos Vallejo\ClassLibrary\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
