@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navegador", "Navegador\Navegador.csproj", "{CA686A34-9EBE-41F1-AE58-A671DBA9C3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hilo", "Hilo\Hilo.csproj", "{A3F43467-D675-4152-93E0-78384FE68DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{B8CE55D8-A1FD-448A-A9FE-DC33D1E60062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA686A34-9EBE-41F1-AE58-A671DBA9C3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA686A34-9EBE-41F1-AE58-A671DBA9C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA686A34-9EBE-41F1-AE58-A671DBA9C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA686A34-9EBE-41F1-AE58-A671DBA9C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F43467-D675-4152-93E0-78384FE68DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F43467-D675-4152-93E0-78384FE68DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F43467-D675-4152-93E0-78384FE68DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F43467-D675-4152-93E0-78384FE68DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CE55D8-A1FD-448A-A9FE-DC33D1E60062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CE55D8-A1FD-448A-A9FE-DC33D1E60062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CE55D8-A1FD-448A-A9FE-DC33D1E60062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CE55D8-A1FD-448A-A9FE-DC33D1E60062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

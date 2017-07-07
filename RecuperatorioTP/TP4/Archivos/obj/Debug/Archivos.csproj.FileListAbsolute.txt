@@ -1,0 +1,17 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Excepciones.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Excepciones.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Marcos Vallejo\Desktop\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Vallejo\Desktop\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.dll
+C:\Users\Marcos Vallejo\Desktop\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Marcos Vallejo\Desktop\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.dll
+C:\Users\Marcos Vallejo\Desktop\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.pdb
